@@ -1,0 +1,8 @@
+# This file lists all the python packages that are required by the project
+# These packages can be installed using the command: pip install -r requirements.txt
+
+# For connecting to the serial port
+pyserial 
+
+# For colorizing the output
+colorama
